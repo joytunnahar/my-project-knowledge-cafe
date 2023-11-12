@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Lzx9sjk/javier-allegue-barros-C7-B-Ex-Xp-OIE-unsplash.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-11",
+      "reading_time": 15,
+      "hashtags": ["adventure", "fantasy", "journey"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/SXx3QKj/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-10",
+      "reading_time": 20,
+      "hashtags": ["mystery", "exploration", "discovery"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/SXx3QKj/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Emily White",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-09",
+      "reading_time": 18,
+      "hashtags": ["history", "culture", "legacy"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/2c6wthw/background-1.jpg",
+      "title": "Whispers in the Wind",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-08",
+      "reading_time": 12,
+      "hashtags": ["romance", "nature", "love"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/Lzx9sjk/javier-allegue-barros-C7-B-Ex-Xp-OIE-unsplash.jpg",
+      "title": "The Art of Coding",
+      "author": "Grace Taylor",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-07",
+      "reading_time": 25,
+      "hashtags": ["technology", "coding", "innovation"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/SXx3QKj/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "Through the Lens",
+      "author": "Michael Turner",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-06",
+      "reading_time": 14,
+      "hashtags": ["photography", "art", "capturethemoment"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/P1F0sMX/issues8.jpg",
+      "title": "Recipes from the Heart",
+      "author": "Sophia Martinez",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-05",
+      "reading_time": 30,
+      "hashtags": ["cooking", "recipes", "foodie"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/SXx3QKj/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "Beyond the Stars",
+      "author": "Daniel Lee",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-04",
+      "reading_time": 22,
+      "hashtags": ["space", "sciencefiction", "exploration"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/Lzx9sjk/javier-allegue-barros-C7-B-Ex-Xp-OIE-unsplash.jpg",
+      "title": "Echoes of the Past",
+      "author": "Olivia Green",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-03",
+      "reading_time": 16,
+      "hashtags": ["history", "memory", "nostalgia"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/SXx3QKj/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg",
+      "title": "The Silent Symphony",
+      "author": "Matthew Davis",
+      "author_img": "https://i.ibb.co/X8x6t58/Whats-App-Image-2023-03-16-at-05-21-35.jpg",
+      "posted_date": "2023-11-02",
+      "reading_time": 19,
+      "hashtags": ["music", "melody", "harmony"]
+    }
+  ]
+  
